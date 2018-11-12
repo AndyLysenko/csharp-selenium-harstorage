@@ -1,3 +1,4 @@
+# Runs browsermob proxy. binaries can be downloaded from https://bmp.lightbody.net/
 $return = @{}
 try{
 $ipaddress = 0.0.0.0

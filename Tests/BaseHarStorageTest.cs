@@ -123,15 +123,12 @@ namespace Tests
             {
                 Console.WriteLine($"Failed to post {file.FullName} to {harContentUrl}");
             }
-            Console.WriteLine($"Cleanup 1");
-
         }
 
         [TestCleanup]
         public void CleanupWeb()
         {
             driver?.Quit();
-            Console.WriteLine($"Cleanup 2");
         }
     }
 }
