@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Tests.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ProxyPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8081</Value>
+    </Setting>
+    <Setting Name="ProxyManagementPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9595</Value>
+    </Setting>
+    <Setting Name="HarStorageUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://94.244.173.198:5000</Value>
+    </Setting>
+    <Setting Name="proxyRunFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">runproxy.ps1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
